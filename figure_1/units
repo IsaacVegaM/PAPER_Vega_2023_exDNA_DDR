@@ -1,3 +1,4 @@
+time = minutes
 conc = DNA [µg/ml]
 ros = H2O2 [nmol/g · Fresh Weight]
 alpha = values for plotting transparencies
