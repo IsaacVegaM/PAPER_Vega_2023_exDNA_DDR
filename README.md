@@ -7,7 +7,8 @@ are involved the induction of systemic acquired resistance by extracellular DNA,
 
 By Vega-Muñoz Isaac, Herrera-Estrella Alfredo, Martínez de la Vega Octavio and Heil Martin.
 
-This work is under revision.
+This work have been published at:
+https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1175786/full
 
 Abstract
 Background: The plant immune response to DNA is highly self/nonself-specific. Self-DNA triggered stronger responses by early immune signals such as H2O2 formation than nonself-DNA from closely related plant species. Plants lack known DNA receptors. Therefore, we aimed to investigate whether a differential sensing of self-versus nonself DNA fragments as damage- versus  pathogen-associated molecular patterns (DAMPs/PAMPs) or an activation of the DNA-damage response (DDR) represents the more promising framework to understand this phenomenon.
